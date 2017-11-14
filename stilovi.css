@@ -1,0 +1,216 @@
+.navbar {
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 13px !important;
+    letter-spacing: 0.5px;
+	opacity:0.7;
+	font-family: Verdana;
+    
+}
+
+.container-fluid{
+	background-color: #2d2d30;
+	opacity:0.6;
+	
+}
+
+.navbar-default {
+    background-color:#555;
+}
+
+.navbar-default a.navbar-brand{
+	color:#f19494;
+	font-size:30px;
+}
+.ul
+{
+	display:inline;
+	list-style:none;
+	padding-left:-40px;
+	font-family: Verdana;
+}
+
+.navbar li a, .navbar { 
+    color: #ffbdbb !important;
+	font-size: 16px;
+	font-family: Verdana;
+
+	
+}
+
+.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+}
+
+.container-fluid{
+	width: 100%;	
+}
+
+.container {
+    padding: 80px 120px;
+	margin-bottom: 20px;
+}
+
+.row{
+	margin-bottom: 20px;
+	margin-left: 10px;
+} 
+
+.carousel-caption h3 {
+    color: #fff !important;
+	font-family: Verdana;
+}
+
+.page{
+	width:970px; 
+	background:#d8a8a7; 
+	margin:0 auto;
+	margin-bottom:20px;
+	font-family: Verdana;
+}
+
+.page .title
+{
+	text-align:center;
+	margin-top: 20px;
+	color:#fff;
+	padding-top: 0.5px;
+	padding-bottom:0.9px;
+	font-family: Verdana;
+}
+	
+
+.Tabela {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    border: 1px solid #000000;
+	font-family: Verdana;
+}
+
+.Tabela table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+	font-family: Verdana;
+}
+
+.tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+	font-family: Verdana;
+	
+}
+
+.table, th, td {
+    border: 1px solid black;
+	text-align: center;
+	background-color:#f2f2f2;
+	color:#cc716f;
+	font-family: Verdana;
+}
+
+.footer-wrapper .panel
+{
+	background-color:#2d2d30;
+	color:#b58483;
+	text-align:center;
+	opacity:0.7;
+	width:100%;
+	font-family: Verdana;
+}
+
+.search , ul
+{
+	list-style-type:none;
+	text-align:center;
+	font-family: Verdana;
+	
+}
+
+.search 
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	font-family: Verdana;
+}
+
+.search1
+{
+	margin-top:-10px;
+	margin-bottom:-20px;
+	font-family: Verdana;
+}
+
+
+
+.content_wrap
+{
+	height:250px;
+	font-family: Verdana;
+	
+}
+
+.page, padding-bottom
+{
+	width:100%;
+	margin-top:30px;
+	margin-bottom:30px;
+	font-family: Verdana;
+}
+
+.content_wrap1
+{
+	height:600px;
+	
+}
+
+.content_wrap2
+{
+	height:400px;
+	
+}
+
+.search-filed {
+    width: 180px;
+    height: 36px;
+    border: none;
+    background: white;
+    text-indent:5px;
+    font-family: Verdana;
+    font-size: 13px;
+    color: black;
+	padding-left:0px;
+	margin-bottom:5px;
+}
+
+.btn-primary  {
+    color: #fff;
+	font-family: Verdana;
+    background-color: #b73364 !important; 
+    border-color: #730a3b !important;
+}
+
+.ul1
+{
+	font-family: Verdana;
+	padding-left:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
